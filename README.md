@@ -3,8 +3,7 @@ D_Sync is a continuation of my Ludum Dare 40 project.
 The latest version can be downloaded at: https://github.com/Ziamor/DSYN-Public/releases/tag/v0.2-alpha
 The current release is for desktop only but the final product will be on Android. I did not include the Android apk as you can’t use the level editor on Android currently.
 
-# Controls
-# Game screen:
+# Game screen controls:
 
 Space -> Jump
 
@@ -16,7 +15,7 @@ E,R -> Finely control time
 
 Tap slider on bottom of game screen -> Control time
 
-# Editor:
+# Editor screen controls:
 
 P -> Test level
 

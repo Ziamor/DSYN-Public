@@ -3,6 +3,13 @@ D_Sync is a continuation of my Ludum Dare 40 project.
 The latest version can be downloaded at: https://github.com/Ziamor/DSYN-Public/releases/tag/v0.2-alpha
 The current release is for desktop only but the final product will be on Android. I did not include the Android apk as you can’t use the level editor on Android currently.
 
+![Image of Doors](https://i.imgur.com/sfmeKxb.gif)
+
+# More images
+https://i.imgur.com/HDtJ2tr.gif
+
+https://i.imgur.com/I432DYS.gif
+
 # Game screen controls:
 
 Space -> Jump

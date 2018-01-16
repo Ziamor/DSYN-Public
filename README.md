@@ -1,7 +1,7 @@
 # DSYN-Public
 D_Sync is a continuation of my Ludum Dare 40 project. This game is a puzzle game where you need to rewind time to be able to finish each level.
 
-The latest version can be downloaded at: https://github.com/Ziamor/DSYN-Public/releases/tag/v0.2-alpha
+The latest version can be downloaded at: https://github.com/Ziamor/DSYNC-Public/releases/tag/v0.2-alpha
 The current release is for desktop only but the final product will be on Android. I did not include the Android apk as you can’t use the level editor on Android currently.
 
 ![Image of Doors](https://i.imgur.com/sfmeKxb.gif)
